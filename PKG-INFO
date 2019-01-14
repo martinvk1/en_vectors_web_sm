@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: en_vectors_web_lg
+Version: 2.0.0
+Summary: 1.2m 300d vectors trained on Common Crawl with GloVe
+Home-page: https://nlp.stanford.edu/projects/glove
+Author: Jeffrey Pennington, Richard Socher, and Christopher D. Manning. Repackaged by Explosion AI
+Author-email: contact@explosion.ai
+License: CC BY-SA 3.0
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

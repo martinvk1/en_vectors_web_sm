@@ -1,0 +1,17 @@
+MANIFEST.in
+meta.json
+setup.py
+en_vectors_web_lg/__init__.py
+en_vectors_web_lg/meta.json
+en_vectors_web_lg.egg-info/PKG-INFO
+en_vectors_web_lg.egg-info/SOURCES.txt
+en_vectors_web_lg.egg-info/dependency_links.txt
+en_vectors_web_lg.egg-info/not-zip-safe
+en_vectors_web_lg.egg-info/requires.txt
+en_vectors_web_lg.egg-info/top_level.txt
+en_vectors_web_lg/en_vectors_web_lg-2.0.0/meta.json
+en_vectors_web_lg/en_vectors_web_lg-2.0.0/tokenizer
+en_vectors_web_lg/en_vectors_web_lg-2.0.0/vocab/keys
+en_vectors_web_lg/en_vectors_web_lg-2.0.0/vocab/lexemes.bin
+en_vectors_web_lg/en_vectors_web_lg-2.0.0/vocab/strings.json
+en_vectors_web_lg/en_vectors_web_lg-2.0.0/vocab/vectors
